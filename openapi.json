@@ -181,7 +181,7 @@
           "description" : "generator version used by codegen engine",
           "required" : true,
           "schema" : {
-            "type" : "integer",
+            "type" : "string",
             "enum" : [ "V2", "V3" ]
           }
         } ],
